@@ -1,4 +1,8 @@
 <?php
+/**
+ * テストコメント
+ */
+
 define("ALL_ZIP_FILE", "./allzip.zip");
 
 
