@@ -15,8 +15,6 @@ if(!isset($_GET['zip']) || !preg_match("/[0-9]{3}/",$_GET['zip'])){
   exit;
 }
 echo "test";
-echo "test";
-echo "test";
 
 $zip = $_GET['zip'];
 $za = new ZipArchive();
